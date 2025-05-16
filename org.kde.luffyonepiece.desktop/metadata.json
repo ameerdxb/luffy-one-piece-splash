@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ameersuhailasj473@gmail.com",
+                "Name": "Luffy Gear 5"
+            }
+        ],
+        "Category": "Splash Screen",
+        "Description": "A custom KDE splash screen featuring Luffy from One Piece.",
+        "Id": "org.kde.luffyonepiece.desktop",
+        "License": "GPLv3",
+        "Name": "Luffy One Piece Splash",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Splash;Anime;One Piece;Luffy;",
+    "X-Plasma-APIVersion": "2"
+}
