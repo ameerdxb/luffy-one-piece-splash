@@ -30,7 +30,7 @@ This theme displays your own animated GIF in a cinematic 16:9 aspect ratio with 
 
 1. **Clone or Download this repository:**
     ```
-    git clone https://github.com/yourusername/luffy-one-piece-splash.git
+    git clone https://github.com/ameerdxb/luffy-one-piece-splash.git
     ```
 2. **Copy the theme folder to your Plasma look-and-feel directory:**
     ```
